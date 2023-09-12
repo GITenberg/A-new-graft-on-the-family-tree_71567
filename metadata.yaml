@@ -1,0 +1,29 @@
+_repo: A-new-graft-on-the-family-tree_71567
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pansy
+    aliases:
+    - Alden, Isabella Macdonald
+    - Alden, Mrs. G. R. (Isabella)
+    birthdate: 1841
+    deathdate: 1930
+    gutenberg_agent_id: '4482'
+    url: http://www.gutenberg.org/2009/agents/4482
+    wikipedia: https://en.wikipedia.org/wiki/Isabella_Macdonald_Alden
+description: ''
+gutenberg_issued: '2023-09-04'
+identifiers:
+  gutenberg: '71567'
+language: en
+pgterms:marc905: 20230829145834alden
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bT. Nelson and Sons, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A new graft on the family tree
+url: http://www.gutenberg.org/ebooks/71567
